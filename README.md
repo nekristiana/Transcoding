@@ -1,4 +1,4 @@
-# ![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Artboard 1.png)
+# ![](/images/Artboard 1.png)
 
 **Table of contents**
 
