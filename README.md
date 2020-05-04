@@ -3,6 +3,7 @@
 **Table of contents**
 
 [TOC]
+![Tabel Of Contents preview](images/tableofcontents.png)
 
 # The Artefact 
 
