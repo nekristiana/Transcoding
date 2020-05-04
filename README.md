@@ -2,7 +2,7 @@
 
 **Table of contents**
 
-[TOC]
+[TOC] (only a screenshot for preview, searching why Typora's TOC does not work in github now)
 ![Tabel Of Contents preview](images/tableofcontents.png)
 
 # The Artefact 
