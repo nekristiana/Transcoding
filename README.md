@@ -426,6 +426,7 @@ These two side-by-side existing ways of transcoding would create interesting **c
 
 However, in this transcodin **I am trying out the thought of number drawing, where you connect the numbers to get an image.** In this case I am just connecting the same numbers with themseves (all Nr.1, all Nr.2's and so on), to see if it would be possible to place the numbers on a page if original poster wouldn't be visible, just using the lines as a guide.
 
+![Transcoding_7-01](images/Transcoding%20trial%207/Transcoding%207_3-01.png)
 ![Transcoding_7-01](images/Transcoding%20trial%207/Transcoding_7-01.png)
 ![Transcoding_7-01](images/Transcoding%20trial%207/Transcoding%207_2-01.png)
 
