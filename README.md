@@ -12,7 +12,7 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 | Tag                                                          | Data                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | IISG Call Number                                             | IISG BG D82/183                                              |
-| Physical Description                                         | Paper poster, 63x45cm, linocat, two color print              |
+| Physical Description                                         | Paper poster, 63x45cm, linocut, two color print              |
 | Type                                                         | Object                                                       |
 | Medium                                                       | Poster, linocut                                              |
 | Materials                                                    | Paper, ink                                                   |
