@@ -1,4 +1,4 @@
-# ![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Artboard 1.png)
+# ![](/images/Artboard%201.png)
 
 **Table of contents**
 
@@ -39,19 +39,19 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 [Protest apron of a doctor]: https://search.iisg.amsterdam/Record/995150
 
 
-![the apron](Images/doctor.jfif)
+![the apron](images/doctor.jfif)
 
 [Doctor's strike in Netherlands (1950's)]: https://www.gewina-studium.nl/articles/10.18352/studium.8818/print/
 
 #### 1.4. Espionage
 
-![Espionage](Images/espionage.jpg)
+![Espionage](images/espionage.jpg)
 
 Roles in Espionage:
 In most countries there are separate secret services in charge of espionage for national security. Such secret services can be subdivided into security services, intelligence services, eavesdropping services and military intelligence services. Employees who are employed by a secret service are called intelligence officers. Persons who possibly provide information for a financial fee but are not on the payroll are called agents.
 In addition, there are informers who provide information to officers or agents without consideration and on their own initiative. Double spies are agents who provide intelligence officers on both sides with information, while a mole is an agent who deliberately infiltrates a hostile intelligence organization.
 
-![Espionage](Images/espionage2.jpg)
+![Espionage](images/espionage2.jpg)
 Komitee Anti Kontrole (Utrecht), 1978, Hoog Catharijne (Utrecht)
 
 OSINT (Open Source Intelligence): information from public sources
@@ -232,6 +232,9 @@ https://search.iisg.amsterdam/Record/1311546
 
 #### Semi Ruder poster observation from the original.
 
+![](images/Original%20Poster/originalposter1.JPG)
+![](images/Original%20Poster/originalposter2.JPG)
+
 <details><summary>Color</summary><br>
 Layer 1 – matt color (reddish, dark brown). Texture is more grainier than layer 2.<br>
   Layer 2 – matt color, with a bit of a gloss. (black). Applied on top of the layer 1 color. <br><br> The layer 1 is visible through layer 2 as a texture and also the layer 1 see-through the layer 2 is a bit shinier that the layer 2.<br> </details>
@@ -263,9 +266,9 @@ Anti Racisme poster (1985), U.S.A Neutronen Bom, Zwolle tegen de Neutronen-bom.D
 </details>
 
 
-![originalposter3.JPG](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Original Poster/originalposter3.JPG.JPG)
+![originalposter3.JPG](images/Original%20Poster/originalposter3.JPG.JPG)
 
-![originalposter4.JPG](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Original Poster/originalposter4.JPG.JPG)
+![originalposter4.JPG](images/Original%20Poster/originalposter4.JPG.JPG)
 
 
 # Transcoding
@@ -365,23 +368,23 @@ This transcoding included such transcoding steps: <br><br>
 2.I save it in my computer and change it to .jpeg format; 3. I put it in Windows Paint 3D and try to redraw the original by looking at it and drawing with my hand on a computer. 4.The touchpad of the computer interprets my hand movements as strokes in the drawing program and visualizes them on the screen.<br>
 ![TranscodingStepsPreview](d:\Users\User\Pictures\KABK\YEAR 3\CODING\Semester 2\Markdown process\images\Transcoding1\transcoding steps\TranscodingStepsPreview.jpg)
 </details>
-![TranscodingTryout_1](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding1/TranscodingTryout_1.png)
+![TranscodingTryout_1](images/Transcoding1/TranscodingTryout_1.png)
 
-![Untitled2](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding1/Untitled2.png)
+![Untitled2](images/Transcoding1/Untitled2.png)
 
-![Hnet-image](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding1/Hnet-image.gif)
+![Hnet-image](images/Transcoding1/Hnet-image.gif)
 
 ## Transcoding 3
 
 **Digital line drawing (2D).** In this transcoding the colors or materiality are not important. The most important part is as clear and as simple as possible translate and copy the posters composition.
 
-![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 2/Transcoded2_1.jpg)
+![](images/Transcoding%20trial%202/Transcoded2_1.jpg)
 
 ## Transcoding 4
 
 **Digital line drawing including a hint of color.** This specific tryout is just a sketch made with filter to see if it would be worth trying. I decided not to continue with this method.
 
-![Transcoded3_1](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 3/Transcoded3_1.jpg)
+![Transcoded3_1](images/Transcoding%20trial%203/Transcoded3_1.jpg)
 
 ## Transcoding 5
 
@@ -395,11 +398,11 @@ This transcoding included such transcoding steps: <br><br>
 
    ***This method I see as a potential to create a camouflage to the poster, starting to talk about the context of the poster - people not wanting to be governmentally visible.* An interesting aspect is also the fact that even though the posters seem to contain only two coors - brown and black - it actually shows that it has much more hues. I see it as a symbol to the governments urge to assign numbers to people - *one can do it and make the person a dry, one-sided number, but it will never contain all of the persons "hues" or personality and values, for example.***
 
-![Transcoded4_1](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 4/Transcoded4_1.jpg)
+![Transcoded4_1](images/Transcoding%20trial%204/Transcoded4_1.jpg)
 
-![transcoding5_colorscheme-01](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 5/transcoding5_colorscheme-01.jpg)
+![transcoding5_colorscheme-01](images/Transcoding%20trial%205/transcoding5_colorscheme-01.jpg)
 
-![transcoding5_colorscheme-02](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 5/transcoding5_colorscheme-02.jpg)
+![transcoding5_colorscheme-02](images/Transcoding%20trial%205/transcoding5_colorscheme-02.jpg)
 
 ## Transcoding 6
 
@@ -407,7 +410,7 @@ This transcoding included such transcoding steps: <br><br>
 
 Dutch people at the time (1970's and 1980's) were against assigning centralized numbers to people in the Netherlands. That is what the poster is about. Here I am trying to "hide" the poster behind numbers, in a way how the artist already does it in the poster in analogue way. Using the transcoding itself as a camouflage, to represent the topic of the poster and the vibe in the country at the time.
 
-![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding trial 6/Screenshot 2020-05-04 at 11.37.56.png)
+![](images/Transcoding%20trial%206/Screenshot%202020-05-04%20at%2011.37.56.png)
 
 ## Transcoding 7
 
@@ -422,7 +425,7 @@ These two side-by-side existing ways of transcoding would create interesting **c
 
 However, in this transcodin **I am trying out the thought of number drawing, where you connect the numbers to get an image.** In this case I am just connecting the same numbers with themseves (all Nr.1, all Nr.2's and so on), to see if it would be possible to place the numbers on a page if original poster wouldn't be visible, just using the lines as a guide.
 
-![Transcoding_7-01](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Transcoding 7/Transcoding_7-01.png)
+![Transcoding_7-01](images/Transcoding%20trial%207/Transcoding_7-01.png)
 
 # Reflections
 
