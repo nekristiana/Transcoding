@@ -17,7 +17,7 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 | Medium                                                       | Poster, linocut                                              |
 | Materials                                                    | Paper, ink                                                   |
 | Date                                                         | 1984                                                         |
-| ![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Seidel.jpg) | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
+| ![](images/Seidel.jpg) | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
 
 
 
