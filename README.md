@@ -1,4 +1,4 @@
-# ![](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Artboard 1.png)
+# ![](images/Artboard%201.png)
 
 **Table of contents**
 
@@ -39,19 +39,19 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 [Protest apron of a doctor]: https://search.iisg.amsterdam/Record/995150
 
 
-![the apron](Images/doctor.jfif)
+![the apron](images/doctor.jfif)
 
 [Doctor's strike in Netherlands (1950's)]: https://www.gewina-studium.nl/articles/10.18352/studium.8818/print/
 
 #### 1.4. Espionage
 
-![Espionage](Images/espionage.jpg)
+![Espionage](images/espionage.jpg)
 
 Roles in Espionage:
 In most countries there are separate secret services in charge of espionage for national security. Such secret services can be subdivided into security services, intelligence services, eavesdropping services and military intelligence services. Employees who are employed by a secret service are called intelligence officers. Persons who possibly provide information for a financial fee but are not on the payroll are called agents.
 In addition, there are informers who provide information to officers or agents without consideration and on their own initiative. Double spies are agents who provide intelligence officers on both sides with information, while a mole is an agent who deliberately infiltrates a hostile intelligence organization.
 
-![Espionage](Images/espionage2.jpg)
+![Espionage](images/espionage2.jpg)
 Komitee Anti Kontrole (Utrecht), 1978, Hoog Catharijne (Utrecht)
 
 OSINT (Open Source Intelligence): information from public sources
@@ -231,7 +231,7 @@ https://search.iisg.amsterdam/Record/1311546
 
 #### Semi Ruder poster observation from the original.
 
-![originalposter2](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Original Poster/originalposter2.JPG)
+![originalposter2](images/Original%20Poster/originalposter1.JPG)
 
 ![originalposter1](/Users/kms/Documents/KABK/YEAR 3/Coding/Semester 2/Markdown process/images/Original Poster/originalposter1.JPG)
 
