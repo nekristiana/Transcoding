@@ -413,6 +413,11 @@ However, in this transcodin **I am trying out the thought of number drawing, whe
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%207/Transcoding_7-01.png" width="47%">
 </p>
 
+## Transcoding 8
+Using coding to generate the color scheme overlay of the poster. The process starts with an learning example in pointilism, example by Dan Shiffman (like in the image below). The aim is to create shapes colored according to pixels in an image (in my case: original poster, and if that is successful - any uploaded image). This part is ongoing and therefore not documented yet.
+
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png" width="47%">
+
 # Reflections
 
 This assignment interested me mostly through the means of transcoding a physical object into something not tangible, into a structure or an invention of method to recreate the object in a non-material way. I saw it as a brain excersise to try to figure out a way how to arrive the the final destination (the original poster) each time walking a different path. 
@@ -423,10 +428,6 @@ Hardest part for me has been translating the *meaning and context* of the poster
 # Outcomes
 
 The outcomes of the assignment so far are 7 transcodings and 6 coding-related ideas of transcoding, so far not fully realized. Four of the transcoding tryouts only deal with the physical appearance and composition of the poster, and three of them connects the visual aspects of the poster as well as the context and theme of it. So far I value most the Transcoding 5  which made me arrive to the coding transcoding part of creating a tool that takes the average color of the uploaded image (or in the original case - Semi Ruder poster from IISG archive), and in that way creates a camoflague on top, abstracting the image from recognition at the same time reading and processing every pixel of the image to analyze the average tone of the camoflague.
-
-# Conclusion
-
-
 
 # Bibliography
 
