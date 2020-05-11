@@ -1,6 +1,36 @@
 ![](https://github.com/nekristiana/Transcoding/blob/master/images/TitleCoverForReadme.jpg)
 #Zondere Nummer Bestaat Men Niet?
 
+**Table of contents**
+
+- [The Artefact](#the-artefact)
+  * [The Research](#the-research)
+    + [Espionage](#espionage)
+    + [Objects of Interest](#objects-of-interest)
+    + [Objects of Interest](#objects-of-interest)
+  * [History of Privacy in Netherlands](#history-of-privacy-in-netherlands)
+    + [Privacy nowadays in Netherlands](#privacy-nowadays-in-netherlands)
+    + [Social Context of The World in 1970](#social-context-of-the-world-in-1970)
+  * [Analyzing the Original Poster](#analyzing-the-original-poster)
+- [Transcoding](#transcoding)
+  * [Potential Startingpoints](#potential-startingpoints)
+    + [Sketch No 1](#sketch-no-1)
+    + [Sketch No 2](#sketch-no-2)
+    + [Sketch No 3](#sketch-no-3)
+    + [Sketch No 4](#sketch-no-4)
+    + [Sketch No 5](#sketch-no-5)
+  * [Transcoding 1](#transcoding-1)
+  * [Transcoding 2](#transcoding-2)
+  * [Transcoding 3](#transcoding-3)
+  * [Transcoding 4](#transcoding-4)
+  * [Transcoding 5](#transcoding-5)
+  * [Transcoding 6](#transcoding-6)
+  * [Transcoding 7](#transcoding-7)
+  * [Transcoding 8](#transcoding-8)
+- [Reflections](#reflections)
+- [Outcomes](#outcomes)
+- [Bibliography](#bibliography)
+
 # The Artefact 
 
 The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It was made during the time when the person identification number was about to be introduced as a centralized human accounting system, and wide protests spread across the country. The chosen poster is one of many opinions against this centralized data collection.
@@ -198,7 +228,7 @@ https://search.iisg.amsterdam/Record/1311546
 
 ## Analyzing the Original Poster
 
-### Semi Ruder poster observation from the original.
+**Semi Ruder poster observation from the original.**
 
 <p float="left">
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Original%20Poster/originalposter1.JPG" width="50%">
@@ -234,12 +264,10 @@ Looks like linocut. Other posters are engraved in wood as well.
 Anti Racisme poster (1985), U.S.A Neutronen Bom, Zwolle tegen de Neutronen-bom.Demonstreert: 11 Maart ‘78. Kies voof the vreede, kerer wapers nooitgevechtraardgd. Befehl ist Befehl, ‘80.
 </details>
 
-
 <p float="left">
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Original%20Poster/originalposter2.JPG" width="50%">
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Original%20Poster/originalposter3.JPG.JPG" width="47%">
 </p>
-
 
 # Transcoding
 
@@ -280,29 +308,35 @@ Dragging the mouse along the illustration lines (involves an interpretation of t
 
 ## Potential Startingpoints
 
-#### Sketch No. 1: Location translation
+### Sketch No 1 
+**Location translation**
 The poster would be placed on underlying grid with coordinates on the crossroads of the grid lines. Therefore these indication points could be used to transcode the poster in many different ways or just make a vectorized clone of it, away from digital .jpg image.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch1.jpg" width="70%">
 
-#### Sketch No. 2: Written or spoken word 
+### Sketch No 2 
+**Written or spoken word**
 The poster could be translated by someone writing or describing verbaly the artwork. This transcoding would be interesting in a sense that it is very open to interpretation - both how the talker describes it and how the receiver imagines it.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch2.jpg" width="70%">
 
-#### Sketch No. 3: Audio
+### Sketch No 3
+**Audio**
 Similar as in Sketch No.1, there is an underlying grid and each point has its own sound from lowest to highest octave. Knowing the logic of the sound distribution on the grid, onecould recreate the poster by hearing the computer "playing" the coordinate dots. 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch3.jpg" width="70%">
 
-#### Sketch No. 4a: Found pictures thrown together to form associative original
+### Sketch No 4a 
+**Found pictures thrown together to form associative original**
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch4_1.jpg" width="70%">
 
-#### Sketch No. 4b: Morphed found pictures together to create the original  
+### Sketch No 4b 
+**Morphed found pictures together to create the original**  
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch4.jpg" width="70%">
 
-#### Sketch No. 5: Tangible translation
+### Sketch No 5 
+**Tangible translation**
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch6.jpg" width="80%">
 
