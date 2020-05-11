@@ -13,7 +13,7 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 | Medium                                                       | Poster, linocut                                              |
 | Materials                                                    | Paper, ink                                                   |
 | Date                                                         | 1984                                                         |
-| <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidel.jpg" width="500" /> | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
+| <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidel.jpg"/> | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
 
 
 ## The Research
@@ -411,7 +411,7 @@ However, in this transcodin **I am trying out the thought of number drawing, whe
 ## Transcoding 8
 Using coding to generate the color scheme overlay of the poster. The process starts with an learning example in pointilism, example by Dan Shiffman (like in the image below). The aim is to create shapes colored according to pixels in an image (in my case: original poster, and if that is successful - any uploaded image). This part is ongoing and therefore not documented yet.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png" width="47%">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png">
 
 # Reflections
 
