@@ -427,11 +427,18 @@ The outcomes of the assignment so far are 7 transcodings and 6 coding-related id
 # Bibliography
 
 ¹Security Service MI5 https://www.mi5.gov.uk/counter-espionage
+
 ²*Against Identification* http://www.iisg.nl/staatsarchief/archieven/algemeen/politdos.php
+
 ³Finn Brunton and Helen Nissenbaum, *Obfuscation*, 2015 https://mitpress.mit.edu/books/obfuscation
+
 ⁴Philip E. Agre, Marc Rotenberg, *Technology and Privacy: The New Landscape*, 1997
+
 ⁵Law for the protection of personal information, Article 51, 2000 https://wetten.overheid.nl/BWBR0011468/2016-01-01#Hoofdstuk9_Paragraaf1_Artikel51
+
 ⁶F. Dechesne, IN Georgieva, mr. Dr. Ir. BHM Custers, S. van der Hof, *The protection of personal data, Eight European countries compared*, SDU, 2017
+
 ⁷70 historic moments from the 1970s, CNN, 2015 https://edition.cnn.com/2015/05/21/world/gallery/70-historic-moments-from-the-1970s/index.html
+
 ⁸The 1970, History, A&E Television Networks, 2000 https://www.history.com/topics/1970s/1970s-1
 
