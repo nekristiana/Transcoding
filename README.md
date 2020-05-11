@@ -1,11 +1,6 @@
 ![](https://github.com/nekristiana/Transcoding/blob/master/images/TitleCoverForReadme.jpg)
 #Zondere Nummer Bestaat Men Niet?
 
-**Table of contents**
-
-[TOC] (only a screenshot for preview, searching why Typora's TOC does not work in github now)
-![Table Of Contents preview](images/tableofcontents.png)
-
 # The Artefact 
 
 The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It was made during the time when the person identification number was about to be introduced as a centralized human accounting system, and wide protests spread across the country. The chosen poster is one of many opinions against this centralized data collection.
@@ -18,7 +13,7 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 | Medium                                                       | Poster, linocut                                              |
 | Materials                                                    | Paper, ink                                                   |
 | Date                                                         | 1984                                                         |
-| <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidel.jpg" width="200" /> | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
+| <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidel.jpg" width="500" /> | The poster is printed in two color layers - brown-red and black.  On the poster a woman is depicted, and all across the poster are written seemingly random numbers. They are also going over the women's portrait. All of this is printed in red-brown color. Then, the exact same composition is turned upside down and printed in black, on top of the first layer. |
 
 
 ## The Research
