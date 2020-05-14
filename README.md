@@ -382,7 +382,7 @@ This transcoding included such transcoding steps: <br><br>
 
 **Binary code**
 
-Dutch people at the time (1970's and 1980's) were against assigning centralized numbers to people in the Netherlands. That is what the poster is about. Here I am trying to "hide" the poster behind numbers, in a way how the artist already does it in the poster in analogue way. Using the transcoding itself as a camouflage, to represent the topic of the poster and the vibe in the country at the time.
+A tryout. Dutch people at the time (1970's and 1980's) were against assigning centralized numbers to people in the Netherlands. Here I am trying out a possible direction to "hide" the poster behind numbers, in a way how the artist already does it in the poster in analogue way. Using the transcoding itself as a camouflage, to represent the topic of the poster and the vibe in the country at the time. This transcoding does not really work as it seems only illustrative, but the thought of the camoflague I am taking with me.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%206/Screenshot%202020-05-04%20at%2011.37.56.png" width="70%">
 
