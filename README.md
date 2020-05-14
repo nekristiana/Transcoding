@@ -8,6 +8,7 @@
     + [Espionage](#espionage)
     + [Objects of Interest](#objects-of-interest)
     + [Objects of Interest](#objects-of-interest)
+    + [Rudi Seidel](#rudi-seidel)
   * [History of Privacy in Netherlands](#history-of-privacy-in-netherlands)
     + [Privacy nowadays in Netherlands](#privacy-nowadays-in-netherlands)
     + [Social Context of The World in 1970](#social-context-of-the-world-in-1970)
@@ -52,7 +53,7 @@ The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/espionage.jpg"/>
 
-Roles in Espionage¹:
+**Roles in Espionage**¹:
 In most countries there are separate secret services in charge of espionage for national security. Such secret services can be subdivided into *security services, intelligence services, eavesdropping services and military intelligence services.* Employees who are employed by a secret service are called *intelligence officers.* Persons who possibly provide information for a financial fee but are not on the payroll are called *agents.*
 In addition, there are *informers* who provide information to officers or agents without consideration and on their own initiative. Double spies are agents who provide intelligence officers on both sides with information, while a mole is an agent who deliberately infiltrates a hostile intelligence organization.
 
@@ -69,10 +70,6 @@ MEDINT (Medical Intelligence): information in the medical field
 FININT (Financial Intelligence): information from financial sources
 TRAVINT (Travel Intelligence): information from travel data
 
-
-http://www.iisg.nl/staatsarchief/affiches/acties-divers.php#politie
-
-
 Various materials on privacy and police force in Netherlands
 https://search.iisg.amsterdam/Search/Results?sort=relevance&join=AND&lookfor0%5B%5D=staatsarchief&type0%5B%5D=AllFields&lookfor0%5B%5D=politie&type0%5B%5D=AllFields&bool0%5B%5D=AND&filter%5B%5D=format%3A%22Visual+documents%22&limit=50&daterange%5B%5D=publishDate&publishDatefrom=&publishDateto=
 
@@ -87,77 +84,53 @@ https://search.iisg.amsterdam/Search/Results?sort=relevance&join=AND&lookfor0%5B
 - Caricature Koos Barten, Staatsarchief (Amsterdam), 1975-1999
   https://search.iisg.amsterdam/Record/1211281
 
-- Caricature Koos Barten, Staatsarchief (Amsterdam), 1975-1999, https://search.iisg.amsterdam/Record/1211311 , https://search.iisg.amsterdam/Author/Home?author=Klachtenburo+Politie-optreden+%28Amsterdam%29
-
-
 - Kwaad op je beste kameraad?, Ahlfeld, Jean-Marcel, 1982-1982
   https://search.iisg.amsterdam/Record/835068
 
 - Caricature Koos Barten, Staatsarchief (Amsterdam), 1975-1999
   https://search.iisg.amsterdam/Record/1211363
 
-- Button, United Kingdom, 
-  https://search.iisg.amsterdam/Record/1186192
-
-- Dubois, A., 42/60 (Bruxelles), 1976-1976, poster
-  https://search.iisg.amsterdam/Record/843386
-
 - Various publications about police, security services, government control in 1988-2005
   http://www.iisg.nl/staatsarchief/archieven/algemeen/politdos.php
 
-- Against identification and identification obligation²
+- **Against identification and identification obligation**²
   Material: pamphlets, publications from the Netherlands.
   (1988-1989, 2002-2003, 2007-2008, 2010)
   People: Holvast, Jan; Prakken, mr. Ties; Regtien, Ton; Ritsema, Geert; Rust, Friso; Shaving, Jos
   Organizations: NN (per); An Evil Living Foundation; Stichting Vaakaak Persoonsregistratie; XminY; Free bit. Newspaper on the occasion of Electronic media Monitoring 2002.
 
-  http://www.iisg.nl/staatsarchief/archieven/algemeen/politdos.php
-  1968-1999. 
-
-  Various publications about police, security services, government control and bajus
-  (SAVRZ058 Box 001 Folder 000), 1977-1998
-  Keywords: jail struggle, infiltrators, blurring of standards, government control, police action
-  Geographical subject: The Netherlands: Amsterdam: Scheveningen {Penal Prison}: Utrecht: Zaandam
-  Peopl: Bos, Sjoerd (o); Hester, Lex; Holvast, Jan
-  Organizations: Antinor; Koninginneweg (Amsterdam); Tilburg University; Jansen & Janssen; Police Complaints Office (Amsterdam); Anti-Control Committee; Ministry of Internal Affairs; Wall paper Utrecht; Dutch Police Academy; Stichting Vaakaak Persoonsregistratie; Ravijn publishing house. 
-
-  In this box the following publications: "Kraken and police or Who is the boss of the mess?", Dutch Police Academy, Apeldoorn Oct. 1978; of this also a completely revised second edition: "Kraken and police", Apeldoorn 1980. From the Amsterdam Police Complaints Office: "Anthology from the complaints and an overview of the work", October 1977; furthermore the Annual Reports of 1984 and 1985, and "A year of Amsterdam cover-up", Asd 1978. "Serves the servant? A bundle of articles about the police, violent acts and information violence, alienation, specialization and verifiability", compiled by Jan Breed and Bert Rombouts, Katholieke Hogeschool Tilburg, 1979. "The large-scale police appearance after 1980. Report of the study conference on the Mobile Units of state and municipal police and the assistance units of the Weapon of the Royal Netherlands Marechaussee, January January 1981. "Hey, you there! -APV-file", issued as a warning against the new General Local Police Regulation in Amsterdam, effective from 1-3-83. "Raincoat democracy. BVD infiltrations at activist / sters", by Buro Jansen & Janssen, Amsterdam 1990. "Slit hats! The activities of BVD and PID in the Zaanstreek", by BIPS, Zaandam 1991. "Help against the cop", by Muurkrant Utrecht. "Zorro strikes! Security industry, camera control and the report of an action in Hoog Catharijne", Utrecht, December 1977. " "Bunker Balen Boek" (about the B-wing of the Scheveningen prison), by Stichting Vrij and the BWO in Amsterdam, 1983. "Privacy and Registration", publication of Stichting Waakzaamheid Persoonsregistratie, nrs. 2 and 4, Amsterdam 1988. Further three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; the items that are arrested are kept in these plastic bags with a description of the contents "Bunker Balen Boek" (about the B-wing of the Scheveningen prison), by Stichting Vrij and the BWO in Amsterdam, 1983. "Privacy and Registration", publication of Stichting Waakzaamheid Persoonsregistratie, nrs. 2 and 4, Amsterdam 1988. Further three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; the items that are arrested are kept in these plastic bags with a description of the contents Furthermore, three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; the items that are arrested are kept in these plastic bags with a description of the contents Furthermore, three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; the items that are arrested are kept in these plastic bags with a description of the contents
+**In the box of IISG archive I found the following publications related to the movements of resistance in Netherlands of 70's and 80's**: "*Kraken and police or Who is the boss of the mess?*", Dutch Police Academy, Apeldoorn Oct. 1978; of this also a completely revised second edition: "*Kraken and police*", Apeldoorn 1980. From the Amsterdam Police Complaints Office: "*Anthology from the complaints and an overview of the work*", October 1977; furthermore the Annual Reports of 1984 and 1985, and "*A year of Amsterdam cover-up*", Asd 1978. "*Serves the servant? A bundle of articles about the police, violent acts and information violence, alienation, specialization and verifiability*", compiled by Jan Breed and Bert Rombouts, Katholieke Hogeschool Tilburg, 1979. "*The large-scale police appearance after 1980. Report of the study conference on the Mobile Units of state and municipal police and the assistance units of the Weapon of the Royal Netherlands Marechaussee, January January 1981. "Hey, you there! -APV-file*", issued as a warning against the new General Local Police Regulation in Amsterdam, effective from 1-3-83. "*Raincoat democracy. BVD infiltrations at activist / sters*", by Buro Jansen & Janssen, Amsterdam 1990. "*Slit hats! The activities of BVD and PID in the Zaanstreek*", by BIPS, Zaandam 1991. "*Help against the cop*", by Muurkrant Utrecht. "*Zorro strikes! Security industry, camera control and the report of an action in Hoog Catharijne", Utrecht, December 1977.*" "*Bunker Balen Boek*" (about the B-wing of the Scheveningen prison), by Stichting Vrij and the BWO in Amsterdam, 1983. "*Privacy and Registration*", publication of Stichting Waakzaamheid Persoonsregistratie, nrs. 2 and 4, Amsterdam 1988. Further three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; the items that are arrested are kept in these plastic bags with a description of the contents "*Bunker Balen Boek*" (about the B-wing of the Scheveningen prison), by Stichting Vrij and the BWO in Amsterdam, 1983. "*Privacy and Registration*", publication of Stichting Waakzaamheid Persoonsregistratie, nrs. 2 and 4, Amsterdam 1988. Further three so-called "value envelopes" from the Amsterdam police regarding three anonymous detainees during the evictions on 16-6-98 in Amsterdam; 
 
 - Forty years of Dutch action posters from 1965 to 2005
   http://www.iisg.nl/staatsarchief/publicaties/emmer-kwast-inhoud.php
 
-- George, Susan, US, button – https://search.iisg.amsterdam/Record/1463607
-
-- UK, https://search.iisg.amsterdam/Record/1186196
-
-- Halmos P., “Solitude and privacy : a study of social isolation : its causes and therapy.”
+- Halmos P., “*Solitude and privacy : a study of social isolation : its causes and therapy.*”
   https://search.iisg.amsterdam/Record/583113
 
-- Book: Obfuscation
-  How we can evade, protest, and sabotage today's pervasive digital surveillance by deploying more data, not less—and why we should.³ https://search.iisg.amsterdam/Record/1507083
+- Book *Obfuscation* https://search.iisg.amsterdam/Record/1507083
+  How we can evade, protest, and sabotage today's pervasive digital surveillance by deploying more data, not less—and why we should.³ 
 
-  "They are calling us not to the barricades but to our computers, offering us ways to fight today's pervasive digital surveillance—the collection of our data by governments, corporations, advertisers, and hackers. To the toolkit of privacy protecting techniques and projects, they propose adding obfuscation: the deliberate use of ambiguous, confusing, or misleading information to interfere with surveillance and data collection projects. Brunton and Nissenbaum provide tools and a rationale for evasion, noncompliance, refusal, even sabotage—especially for average users, those of us not in a position to opt out or exert control over data about ourselves. Obfuscation will teach users to push back, software developers to keep their user data safe, and policy makers to gather data without misusing it."³
+ > "They are calling us not to the barricades but to our computers, offering us ways to fight today's pervasive digital surveillance—the collection of our data by governments, corporations, advertisers, and hackers. To the toolkit of privacy protecting techniques and projects, they propose adding obfuscation: the deliberate use of ambiguous, confusing, or misleading information to interfere with surveillance and data collection projects. Brunton and Nissenbaum provide tools and a rationale for evasion, noncompliance, refusal, even sabotage—especially for average users, those of us not in a position to opt out or exert control over data about ourselves. Obfuscation will teach users to push back, software developers to keep their user data safe, and policy makers to gather data without misusing it."³
   
-  Brunton and Nissenbaum present a guide to the forms and formats that obfuscation has taken and explain how to craft its implementation to suit the goal and the adversary. They describe a series of historical and contemporary examples, including radar chaff deployed by World War II pilots, Twitter bots that hobbled the social media strategy of popular protest movements, and software that can camouflage users' search queries and stymie online advertising. They go on to consider obfuscation in more general terms, discussing why obfuscation is necessary, whether it is justified, how it works, and how it can be integrated with other privacy practices and technologies.³
+  **Brunton and Nissenbaum** present a guide to the forms and formats that **obfuscation** has taken and explain how to craft its implementation to suit the goal and the adversary. They describe a series of historical and contemporary examples, including **radar chaff deployed by World War II pilots, Twitter bots that hobbled the social media strategy of popular protest movements, and software that can camouflage users'** search queries and stymie online advertising. They go on to consider obfuscation in more general terms, discussing *why obfuscation is necessary, whether it is justified, how it works, and how it can be integrated with other privacy practices and technologies.*³
 
 - State Commission for the protection of privacy in connection with personal registration. Privacy and personal registration: final report, 448 p., dutch language, The Hague: Staatsuitgeverij, 1976
   https://search.iisg.amsterdam/Record/1289898
 
-
 - Police and privacy: investigation into erroneous provision of information by the police: report of the survey by the committee on judicial documentation and police records. Den Bosch: Association of probation institutions, 1976.
   https://search.iisg.amsterdam/Record/595424
+  
 - Who is watching you?, 1985, Lubbers, Ruud Nijpels, Ed Janmaat, Hans. https://search.iisg.amsterdam/Record/1289746
-- 1982-1984, https://search.iisg.amsterdam/Record/1212542 , https://search.iisg.amsterdam/Record/1211209
 
 </details>
 
 *Zondere nummer bestaat men niet?* (You don’t exisst without a number?), Seidel, Rudi, 1984. Woodcut; 63x45 cm.  https://search.iisg.amsterdam/Record/1311546
 
-- <details> <summary> **Rudi Seidel** </summary>
+### Rudi Seidel
 
-Rudi Seidel (born 1938) is without a doubt one of the most striking artists from Drenthe. As a painter, draftsman and graphic artist, he has always endeavored to convey a socially critical message with his work. For the most part autodidact, he developed an expressive figurative design with a very clear own face.
+**Rudi Seidel** (born 1938) is without a doubt one of the most striking artists from Drenthe. As a painter, draftsman and graphic artist, he has always endeavored to convey a socially critical message with his work. For the most part autodidact, he developed an expressive figurative design with a very clear own face.
 
-Artist Rudi Seidel makes posters for anti-Nuclear movements, anti-racism, anti-militarism, social unrest, freedom of speech. Other posters: https://search.iisg.amsterdam/Author/Home?author=Seidel%2C+Rudi%2C&type=Author&page=2
+Artist Rudi Seidel makes **posters for anti-Nuclear movements, anti-racism, anti-militarism, social unrest, freedom of speech.** Other posters: https://search.iisg.amsterdam/Author/Home?author=Seidel%2C+Rudi%2C&type=Author&page=2
 
 12 woodcuts of Rudi Seidel
 
@@ -172,25 +145,23 @@ Artist Rudi Seidel makes posters for anti-Nuclear movements, anti-racism, anti-m
 </p>
 
 
-</details> 
-
 ## History of Privacy in Netherlands
 
-Privacy emerged on the policy agenda in the late 1960s. Privacy law and policy can be roughly divided into two periods: two decades of creating general privacy frameworks in the Constitution and comprehensive data protection legislation, and two decades of updating these general frameworks in light of technological developments while also passing many privacy-diminishing laws to serve other policy goals.
-The rise of the information society, the network society, and the risk society can explain a privacy policy change occurring somewhere during the 1980s. This change can be interpreted either as a shift from generally privacy-friendly policy to generally privacy-unfriendly policy, or as a shift in focus from general, privacy-centric framework regulation to specific, privacy-unrelated legislation targeted at other, higher-ranking policy goals, such as organized crime, immigration, and health and safety.⁴
-- *Technology and Privacy: The New Landscape*
+**Privacy emerged on the policy agenda in the late 1960s**. Privacy law and policy can be roughly divided into **two periods**: *two decades of creating general privacy frameworks in the Constitution and comprehensive data protection legislation, and two decades of updating these general frameworks in light of technological developments while also passing many privacy-diminishing laws to serve other policy goals.*
+
+> The rise of the information society, the network society, and the risk society can explain a privacy policy change occurring somewhere during the 1980s. This change can be interpreted either as a shift from generally privacy-friendly policy to generally privacy-unfriendly policy, or as a shift in focus from general, privacy-centric framework regulation to specific, privacy-unrelated legislation targeted at other, higher-ranking policy goals, such as organized crime, immigration, and health and safety.⁴
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/bookscreenshot.png" width="500"/>
 
 - Stichting Waakzaamheid (IISG Archive), active in 1970’s
   https://search.iisg.amsterdam/Record/1341703
-  Gemeente en privacy : een rapport over gemeentelijke persoonsregistraties
+  
+- Gemeente en privacy : een rapport over gemeentelijke persoonsregistraties
   https://search.iisg.amsterdam/Record/157845 , https://search.iisg.amsterdam/Record/1315369
 
-Dutch Data Protection Authority (Dutch: Autoriteit Persoonsgegevens, AP –independent administrative body that has been appointed by law as the supervisory authority for the processing of personal data.
+**Dutch Data Protection Authority** (Dutch: *Autoriteit Persoonsgegevens*, AP) - independent administrative body that has been appointed by law as the supervisory authority for the processing of personal data.
 
-The Personal Data Protection Act means that an organization may only process personal data that is demonstrably necessary for the organization and for which no explicit prohibition exists. Examples of this are medical, sexual, political data and data about membership of a trade union. For governments, the term 'demonstrably necessary' means that there must be a legal basis for the processing of data⁵
-- *Article 51 of the Personal Data Protection Act*
+**The Personal Data Protection Act** means that an organization may only process personal data that is demonstrably necessary for the organization and for which no explicit prohibition exists. Examples of this are medical, sexual, political data and data about membership of a trade union. For governments, the term 'demonstrably necessary' means that there must be a legal basis for the processing of data⁵
 
 > “In the Netherlands, moreover, more needs to be done about the position of civil law organisations, the number of privacy officials, certification of the security of personal data and the dialogue issuing from the Personal Data Authority.” – Leiden Law School research"⁶
 
@@ -199,32 +170,24 @@ https://www.security.nl/posting/634145/Alternatief+Google+foto
 
 ### Privacy nowadays in Netherlands
 
-“You do this by identifying and analyzing network threats and technical security risks. You therefore have a keen eye for the vulnerabilities in the IT infrastructure, monitor these and act on incidents. You also coordinate - and advise on - vulnerability analyzes and penetration tests. And you also make your own analyzes. You are also a member of the cyber security incident response team. In your role you are constantly working on the mutual translation between tactical issues and implementation. In this way you contribute to the formulation of the information security policy and you work towards standards, supporting guidelines, procedures and baselines for information security.“
+*Forensic investigations*
+> “You are identifying and analyzing network threats and technical security risks. You therefore have a keen eye for the vulnerabilities in the IT infrastructure, monitor these and act on incidents. You also coordinate - and advise on - vulnerability analyzes and penetration tests. And you also make your own analyzes. You are also a member of the cyber security incident response team. In your role you are constantly working on the mutual translation between tactical issues and implementation. In this way you contribute to the formulation of the information security policy and you work towards standards, supporting guidelines, procedures and baselines for information security.“⁷
 
-[^https://www.forensischinstituut.nl/wetenschap-innovatie/wetenschappelijke-publicaties]: Forensisch Instituut
 
+**Privacy Laws**
 
-https://www.forensischinstituut.nl/wetenschap-innovatie/wetenschappelijke-publicaties/archief/wetenschappelijke-publicaties-1993
+> "The Dutch government conceded that due to the court’s decision providers would therefore not be required to store data for the purpose of investigations. Unsurprisingly, the Dutch authorities showed serious concern that the decision would seriously affect the ability of authorities to “fight crime”. The ministry is seriously concerned about the effect this will have on fighting crime.” ⁸ ⁹
 
-- External and research activities of NFI
-  (PDF) file:///D:/Users/User/Pictures/KABK/YEAR%203/IMD/Semester%202/Archiving/Didier+Meuwly+-+External+and+Research+Activities.pdf
-
-*Privacy Laws in Netherlands*
-https://www.ivpn.net/internet-privacy-laws-in-the-netherlands The Dutch government conceded that due to the court’s decision providers would therefore not be required to store data for the purpose of investigations. Unsurprisingly, the Dutch authorities showed serious concern that the decision would seriously affect the ability of authorities to “fight crime”[2]. The ministry is seriously concerned about the effect this will have on fighting crime.” (https://www.theguardian.com/technology/2015/mar/12/data-retention-netherlands-court-strikes-down-law-as-breach-of-privacy) more that 4 yrs old article
-
-Spies Next Door: Operation Ghost Stories (Declassified) | History Documentary | Reel Truth History
+Spies Next Door: Operation Ghost Stories (Declassified),Reel Truth History
 https://www.youtube.com/watch?v=hQKn27dJFpI
-
-IISG Archive visit
-https://search.iisg.amsterdam/Record/1311546
 
 ### Social Context of The World in 1970
 
-- Anti-war movements, memory of Nazism still on (regarding centralized data collection)⁸,
+- Anti-war movements, memory of Nazism still on (regarding centralized data collection)¹⁰,
 - Fighting for womens rights (America), 
 - Environmentalism, 
 - USA president R.Nixon impeached, 
-- In USA, after Watergate (R.Nixon scandal), people withdraw from politics altogether and turns to pop-culture, liberation movements.⁷
+- In USA, after Watergate (R.Nixon scandal), people withdraw from politics altogether and turns to pop-culture, liberation movements.¹¹
 
 ## Analyzing the Original Poster
 
@@ -310,7 +273,7 @@ Dragging the mouse along the illustration lines (involves an interpretation of t
 
 ### Sketch No 1 
 **Location translation**
-The poster would be placed on underlying grid with coordinates on the crossroads of the grid lines. Therefore these indication points could be used to transcode the poster in many different ways or just make a vectorized clone of it, away from digital .jpg image.
+The poster could be placed on underlying grid with coordinates on the crossroads of the grid lines. Therefore these indication points could be used to transcode the poster in many different ways or just make a vectorized clone of it, away from digital .jpg image.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch1.jpg" width="70%">
 
@@ -331,12 +294,13 @@ Similar as in Sketch No.1, there is an underlying grid and each point has its ow
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch4_1.jpg" width="70%">
 
 ### Sketch No 4b 
-**Morphed found pictures together to create the original**  
+**Morphed found pictures together to create a morph image close to original**  
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch4.jpg" width="70%">
 
 ### Sketch No 5 
 **Tangible translation**
+3D scanned or digitally sculpted surface then printed out on 3D printer or made with CNC.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/sketch6.jpg" width="80%">
 
@@ -387,13 +351,13 @@ This transcoding included such transcoding steps: <br><br>
 
 **Digital line drawing (2D).** In this transcoding the colors or materiality are not important. The most important part is as clear and as simple as possible translate and copy the posters composition.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%202/Transcoded2_1.jpg">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%202/Transcoded2_1.jpg" width="70%">
 
 ## Transcoding 4
 
 **Digital line drawing including a hint of color.** This specific tryout is just a sketch made with filter to see if it would be worth trying. I decided not to continue with this method.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%203/Transcoded3_1.jpg">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%203/Transcoded3_1.jpg" width="70%">
 
 ## Transcoding 5
 
@@ -407,7 +371,7 @@ This transcoding included such transcoding steps: <br><br>
 
    ***This method I see as a potential to create a camouflage to the poster, starting to talk about the context of the poster - people not wanting to be governmentally visible.* An interesting aspect is also the fact that even though the posters seem to contain only two coors - brown and black - it actually shows that it has much more hues. I see it as a symbol to the governments urge to assign numbers to people - *one can do it and make the person a dry, one-sided number, but it will never contain all of the persons "hues" or personality and values, for example.***
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%204/Transcoded4_1.jpg">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%204/Transcoded4_1.jpg" width="70%">
 
 <p float="left">
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%205/transcoding5_colorscheme-01.jpg" width="47%">
@@ -420,7 +384,7 @@ This transcoding included such transcoding steps: <br><br>
 
 Dutch people at the time (1970's and 1980's) were against assigning centralized numbers to people in the Netherlands. That is what the poster is about. Here I am trying to "hide" the poster behind numbers, in a way how the artist already does it in the poster in analogue way. Using the transcoding itself as a camouflage, to represent the topic of the poster and the vibe in the country at the time.
 
-![](images/Transcoding%20trial%206/Screenshot%202020-05-04%20at%2011.37.56.png)
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%206/Screenshot%202020-05-04%20at%2011.37.56.png" width="70%">
 
 ## Transcoding 7
 
@@ -435,7 +399,7 @@ These two side-by-side existing ways of transcoding would create interesting **c
 
 However, in this transcodin **I am trying out the thought of number drawing, where you connect the numbers to get an image.** In this case I am just connecting the same numbers with themseves (all Nr.1, all Nr.2's and so on), to see if it would be possible to place the numbers on a page if original poster wouldn't be visible, just using the lines as a guide.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%207/Transcoding%207_3-01.png">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%207/Transcoding%207_3-01.png" width="70%">
 
 <p float="left">
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding%20trial%207/Transcoding%207_2-01.png" width="47%">
@@ -445,34 +409,42 @@ However, in this transcodin **I am trying out the thought of number drawing, whe
 ## Transcoding 8
 Using coding to generate the color scheme overlay of the poster. The process starts with an learning example in pointilism, example by Dan Shiffman (like in the image below). The aim is to create shapes colored according to pixels in an image (in my case: original poster, and if that is successful - any uploaded image). This part is ongoing and therefore not documented yet.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png" width="70%">
 
 # Reflections
 
-This assignment interested me mostly through the means of transcoding a physical object into something not tangible, into a structure or an invention of method to recreate the object in a non-material way. I saw it as a brain excersise to try to figure out a way how to arrive the the final destination (the original poster) each time walking a different path. 
+This assignment interested me mostly through the means of transcoding a physical object into something not tangible, into a structure or an invention of a method to recreate the object in a non-material way. I saw it as a brain exercise to try to figure out a way how to arrive at the final destination (the original poster) each time walking a different path. The challenge of disassembling a known object to pieces and reconstructing it with a completely different "genetic code" is the part that excited me the most in this project. Also the fact that the transcoding can happen in the most simplest of ways by, for example, describing a work or re-drawing it with a human hand, then scanning it, and making a hand-drawn image into a digital .jpg file - a mind-bending excerise to try actually seeing how transcoding actually looks like and how present it actually is in our lives.
 
-Hardest part for me has been translating the *meaning and context* of the poster, but I did come to a conclusion to use the same technique Semi Ruder has used in his poster: not wanting to be part of the system of numbers, *he uses the numbers to hide the person behind them*. When I noticed that in the poster I realized it is a logical step to use such camoflague also in nowadays context, therefore I ended up using the color scheme from transcoding 5 (seemingly simple 2 color poster) as a filter on top of an image that can be not only the original poster to transcode, but also anyones picture taken on phone.
+Hardest part for me has been translating the *meaning and context* of the poster, but I did come to a conclusion to use the same technique Semi Ruder has used in his poster: not wanting to be part of the system of numbers, *he uses the numbers to hide the person behind them*. When I noticed that in the poster I realized it is a logical step to use such camoflague also in nowadays context, therefore I ended up using the idea of color scheme from transcoding 5. The average color scheme of the uploaded image would act as a filter and go on top of the image, *leaving the image abstract and camouflaged with its own information.*
 
 
 # Outcomes
 
-The outcomes of the assignment so far are 7 transcodings and 6 coding-related ideas of transcoding, so far not fully realized. Four of the transcoding tryouts only deal with the physical appearance and composition of the poster, and three of them connects the visual aspects of the poster as well as the context and theme of it. So far I value most the Transcoding 5  which made me arrive to the coding transcoding part of creating a tool that takes the average color of the uploaded image (or in the original case - Semi Ruder poster from IISG archive), and in that way creates a camoflague on top, abstracting the image from recognition at the same time reading and processing every pixel of the image to analyze the average tone of the camoflague.
+The outcomes of the assignment so far are 7 physical transcodings and 6 coding-related ideas of transcoding. Four of the transcoding tryouts only deal with the physical appearance and composition of the poster, and three of them connects the visual aspects of the poster as well as the context and theme of it. So far I value most the Transcoding 5  which made me arrive to the coding transcoding part of creating a tool that takes the average color of the uploaded image (or in the original case - Semi Ruder poster from IISG archive), and in that way creates a camoflague on top, abstracting the image from recognition at the same time reading and processing every pixel of the image to analyze the average tone of the camoflague.
 
 # Bibliography
 
-¹Security Service MI5 https://www.mi5.gov.uk/counter-espionage
+¹ Security Service MI5, *Counter Espionage* https://www.mi5.gov.uk/counter-espionage
 
-²*Against Identification* http://www.iisg.nl/staatsarchief/archieven/algemeen/politdos.php
+² *Against Identification*, Police & Intelligence Services, Box 1 & 2, 1968-1999 http://www.iisg.nl/staatsarchief/archieven/algemeen/politdos.php
 
-³Finn Brunton and Helen Nissenbaum, *Obfuscation*, 2015 https://mitpress.mit.edu/books/obfuscation
+³ Finn Brunton and Helen Nissenbaum, *Obfuscation*, 2015 https://mitpress.mit.edu/books/obfuscation
 
-⁴Philip E. Agre, Marc Rotenberg, *Technology and Privacy: The New Landscape*, 1997
+⁴ Philip E. Agre, Marc Rotenberg, *Technology and Privacy: The New Landscape*, 1997
 
-⁵Law for the protection of personal information, Article 51, 2000 https://wetten.overheid.nl/BWBR0011468/2016-01-01#Hoofdstuk9_Paragraaf1_Artikel51
+⁵ Law for the protection of personal information, Article 51, 2000 https://wetten.overheid.nl/BWBR0011468/2016-01-01#Hoofdstuk9_Paragraaf1_Artikel51
 
-⁶F. Dechesne, IN Georgieva, mr. Dr. Ir. BHM Custers, S. van der Hof, *The protection of personal data, Eight European countries compared*, SDU, 2017
+⁶ F. Dechesne, IN Georgieva, mr. Dr. Ir. BHM Custers, S. van der Hof, *The protection of personal data, Eight European countries compared*, SDU, 2017
 
-⁷70 historic moments from the 1970s, CNN, 2015 https://edition.cnn.com/2015/05/21/world/gallery/70-historic-moments-from-the-1970s/index.html
+⁷ Dutch Forensich Instituut, Ministterie can Justitie en Veiligheid, Scientific publications 2020, https://www.forensischinstituut.nl/wetenschap-innovatie/wetenschappelijke-publicaties
 
-⁸The 1970, History, A&E Television Networks, 2000 https://www.history.com/topics/1970s/1970s-1
+⁸ IVPN, Privacy Laws in Netherlands https://www.ivpn.net/internet-privacy-laws-in-the-netherlands
+
+⁹The Guardian, *Data retention: Netherlands court strikes down law as breach of privacy*, Paul Farrel, March 12, 2015 https://www.theguardian.com/technology/2015/mar/12/data-retention-netherlands-court-strikes-down-law-as-breach-of-privacy
+
+¹⁰ 70 historic moments from the 1970s, CNN, 2015 https://edition.cnn.com/2015/05/21/world/gallery/70-historic-moments-from-the-1970s/index.html
+
+¹¹ The 1970, History, A&E Television Networks, 2000 https://www.history.com/topics/1970s/1970s-1
+
+
 
