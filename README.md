@@ -1,4 +1,4 @@
-![](https://github.com/nekristiana/Transcoding/blob/master/images/TitleCoverForReadme.jpg)
+![](https://github.com/nekristiana/Transcoding/blob/master/images/titlecover2-01.jpg)
 #Zondere Nummer Bestaat Men Niet?
 
 **Table of contents**
