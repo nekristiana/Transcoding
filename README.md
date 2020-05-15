@@ -411,7 +411,7 @@ As a takeway technique I am choosing the Transocing 5 - color scheme of an image
 
 Below is the first tryout of applying and customizing pointilism js5 code to an image of my choice, in this case - Semi Ruder poster.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/transcoding9.gif" width="70%">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/transcoding9_2.gif" width="70%">
 
 
 # Reflections
