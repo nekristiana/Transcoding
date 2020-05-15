@@ -409,9 +409,7 @@ However, in this transcodin **I am trying out the thought of number drawing, whe
 ## Transcoding 8
 As a takeway technique I am choosing the Transocing 5 - color scheme of an image or using coding to generate the color scheme overlay of the poster. The process starts with an learning example in pointilism, example by Dan Shiffman (like in the image below). The aim is to create shapes colored according to pixels in an image (in my case: original poster, and if that is successful - any uploaded image). This part is ongoing and therefore not documented yet.
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png" width="70%">
-
-Below is the first tryout of applying pointilism js5 code to an image of my choice, in this case - Semi Ruder poster.
+Below is the first tryout of applying and customizing pointilism js5 code to an image of my choice, in this case - Semi Ruder poster.
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/transcoding9.gif" width="70%">
 
