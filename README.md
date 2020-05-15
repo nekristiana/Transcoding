@@ -411,6 +411,11 @@ As a takeway technique I am choosing the Transocing 5 - color scheme of an image
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/pointilism.png" width="70%">
 
+Below is the first tryout of applying pointilism js5 code to an image of my choice, in this case - Semi Ruder poster.
+
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/transcoding9.gif" width="70%">
+
+
 # Reflections
 
 This assignment interested me mostly through the means of transcoding a physical object into something not tangible, into a structure or an invention of a method to recreate the object in a non-material way. I saw it as a brain exercise to try to figure out a way how to arrive at the final destination (the original poster) each time walking a different path. The challenge of disassembling a known object to pieces and reconstructing it with a completely different "genetic code" is the part that excited me the most in this project. Also the fact that the transcoding can happen in the most simplest of ways by, for example, describing a work or re-drawing it with a human hand, then scanning it, and making a hand-drawn image into a digital .jpg file - a mind-bending excerise to try actually seeing how transcoding actually looks like and how present it actually is in our lives.
