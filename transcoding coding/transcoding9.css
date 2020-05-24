@@ -1,0 +1,20 @@
+
+html, body {
+  background-color:black;
+}
+
+h1{
+    color: white;
+    font-family: 'DM Mono', monospace;
+    font-size: 4em;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: 'DM Mono', monospace; 
+    font-size: 1em;
+}
+
+font-family: 'DM Mono', monospace;
+
