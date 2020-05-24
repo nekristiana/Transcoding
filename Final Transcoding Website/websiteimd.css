@@ -1,0 +1,48 @@
+html, body {
+  background-color:black;
+}
+
+h1{
+    color:grey;
+    font-family: 'DM Mono', monospace;
+    font-size: 4.6em;
+    text-align: center;
+    margin-top: -20px;
+}
+
+video{
+    margin-top: -68px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+#wrap {
+    font-family: 'DM Mono', monospace;
+    color: white;
+    position:inherit;
+    text-align: center;
+    margin-top: 20%;
+}
+
+#inside {
+    width: 100%;
+    height: 100%;
+    display:inherit;
+    vertical-align: middle;
+}
+
+
+/*
+p{
+    color: grey;
+    display: inline;
+    padding: 20%;
+}
+*/
+
+font-family: 'DM Mono', monospace;
