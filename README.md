@@ -413,6 +413,13 @@ Below is the first tryout of applying and customizing pointilism js5 code to an 
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/transcoding9_2.gif" width="70%">
 
+Finalized transcoding using js5 pointillism, changing the pixel size to 5 points to achieve the translation to a close-to-original image
+
+<p float="left">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/Me_transcoded_2.gif" width="47%">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Transcoding9/Seidel_transcoded.gif" width="47%">
+</p>
+
 
 # Reflections
 
