@@ -430,7 +430,7 @@ Hardest part for me has been translating the *meaning and context* of the poster
 
 # Outcomes
 
-The outcomes of the assignment so far are 7 physical transcodings and 6 coding-related ideas of transcoding. Four of the transcoding tryouts only deal with the physical appearance and composition of the poster, and three of them connects the visual aspects of the poster as well as the context and theme of it. So far I value most the Transcoding 5  which made me arrive to the coding transcoding part of creating a tool that takes the average color of the uploaded image (or in the original case - Semi Ruder poster from IISG archive), and in that way creates a camoflague on top, abstracting the image from recognition at the same time reading and processing every pixel of the image to analyze the average tone of the camoflague.
+The outcomes of the assignment so far are 7 physical transcodings and 6 coding-related ideas of transcoding. Four of the transcoding tryouts only deal with the physical appearance and composition of the poster, and three of them connects the visual aspects of the poster as well as the context and theme of it. So far I value most the Transcoding 5  which made me arrive to the coding transcoding part of creating a tool that pixelizes the original image with its own color pixels creating a camoflague on top, abstracting the image from recognition with its own information. The latest outcome is a video which demonstrates the pixelation of two juxtaposed images - Seidi Ruder poster and my own selfportrait recognized by face-recognition software on Iphone - placed in a website.
 
 # Bibliography
 
