@@ -1,9 +1,8 @@
 ![](https://github.com/nekristiana/Transcoding/blob/master/images/titlecover2-01.jpg)
-#Zondere Nummer Bestaat Men Niet?
+#Zonder Nummer Bestaat Men Niet?
 
-**Table of contents**
-
-- [The Artefact](#the-artefact)
+### Table of Contents
+1. [The Artefact](#the-artefact)
   * [The Research](#the-research)
     + [Espionage](#espionage)
     + [Objects of Interest](#objects-of-interest)
@@ -13,7 +12,7 @@
     + [Privacy nowadays in Netherlands](#privacy-nowadays-in-netherlands)
     + [Social Context of The World in 1970](#social-context-of-the-world-in-1970)
   * [Analyzing the Original Poster](#analyzing-the-original-poster)
-- [Transcoding](#transcoding)
+2. [Transcoding](#transcoding)
   * [Potential Startingpoints](#potential-startingpoints)
     + [Sketch No 1](#sketch-no-1)
     + [Sketch No 2](#sketch-no-2)
@@ -28,11 +27,11 @@
   * [Transcoding 6](#transcoding-6)
   * [Transcoding 7](#transcoding-7)
   * [Transcoding 8](#transcoding-8)
-- [Reflections](#reflections)
-- [Outcomes](#outcomes)
-- [Bibliography](#bibliography)
+3. [Reflections](#reflections)
+4. [Outcomes](#outcomes)
+5. [Bibliography](#bibliography)
 
-# The Artefact 
+## The Artefact 
 
 The chosen artefact is a linocut poster by Semi Ruder from 1984, Netherlands. It was made during the time when the person identification number was about to be introduced as a centralized human accounting system, and wide protests spread across the country. The chosen poster is one of many opinions against this centralized data collection.
 
