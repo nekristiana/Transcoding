@@ -183,11 +183,9 @@ https://www.youtube.com/watch?v=hQKn27dJFpI
 ## Analyzing the Original Poster
 
 **Semi Ruder poster observation from the original.**
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-03.jpg?raw=true
-">
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-03.jpg" width="500"/>
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-04.jpg" width="500"/>
 
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-04.jpg
-">
 
 <details><summary>Color</summary><br>
 Layer 1 – matt color (reddish, dark brown). Texture is more grainier than layer 2.<br>
