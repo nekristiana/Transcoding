@@ -184,9 +184,10 @@ https://www.youtube.com/watch?v=hQKn27dJFpI
 
 **Semi Ruder poster observation from the original.**
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-03.jpg
-"/>
+">
+
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-04.jpg
-"/>
+">
 
 <details><summary>Color</summary><br>
 Layer 1 – matt color (reddish, dark brown). Texture is more grainier than layer 2.<br>
@@ -216,11 +217,6 @@ Looks like linocut. Other posters are engraved in wood as well.
 <details><summary>Other works in the folder</summary><br>
 Anti Racisme poster (1985), U.S.A Neutronen Bom, Zwolle tegen de Neutronen-bom.Demonstreert: 11 Maart ‘78. Kies voof the vreede, kerer wapers nooitgevechtraardgd. Befehl ist Befehl, ‘80.
 </details>
-
-<p float="left">
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Original%20Poster/originalposter2.JPG" width="50%">
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Original%20Poster/originalposter3.JPG.JPG" width="47%">
-</p>
 
 # Transcoding
 
