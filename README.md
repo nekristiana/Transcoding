@@ -183,7 +183,7 @@ https://www.youtube.com/watch?v=hQKn27dJFpI
 ## Analyzing the Original Poster
 
 **Semi Ruder poster observation from the original.**
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-03.jpg
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-03.jpg?raw=true
 ">
 
 <img src="https://github.com/nekristiana/Transcoding/blob/master/images/Collage_2_-04.jpg
