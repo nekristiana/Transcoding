@@ -133,15 +133,7 @@ Artist Rudi Seidel makes **posters for anti-Nuclear movements, anti-racism, anti
 
 12 woodcuts of Rudi Seidel
 
-<p float="left">
-<img src="https://search.iisg.amsterdam/Cover/Show?author=Seidel%2C+Rudi&callnumber=BG+D82%2F197&size=small&title=12+houtsneden+van+Rudi+Seidel.&oclc=943913358&pid=30051002799556&publication=pictoright" width="50%">
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidelposter1.jpeg" width="47%">
-</p>
-
-<p float="left">
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidelposter3.jpeg" width="50%">
-<img src="https://github.com/nekristiana/Transcoding/blob/master/images/Seidelposter2.jpeg" width="47%">
-</p>
+<img src="https://github.com/nekristiana/Transcoding/blob/master/images/collageforgithub-02.jpg" width="500"/>
 
 
 ## History of Privacy in Netherlands
